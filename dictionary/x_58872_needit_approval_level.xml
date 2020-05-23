@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_user" label="Approval Level" max_length="40" name="x_58872_needit_approval_level" type="collection">
+        <element label="CEO" max_length="50" name="ceo" type="string"/>
+        <element label="Director" max_length="50" name="director" type="string"/>
+    </element>
+</database>
